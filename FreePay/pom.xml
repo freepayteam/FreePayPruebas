@@ -8,7 +8,13 @@
 	<name>FreePay</name>
 	<description>Sistema de pagos electronicos</description>
 	<dependencies>
-	
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit-dep</artifactId>
+			<version>4.8.2</version>
+			<scope>test</scope>
+		</dependency>
+		
 	  <!--1.Dependencias JSF-->
 	 
 		<dependency>
